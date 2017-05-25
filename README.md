@@ -1,9 +1,7 @@
 # Mindy-
 Small quiz application
-Dilhani Dayananda
 
 
-Itz my name
 
 ******interface 1******
 
