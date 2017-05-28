@@ -196,7 +196,8 @@ public class Home extends AppCompatActivity {
     }
 }
 
---------------------------Question.java----------------------
+--------------------------Question.java-----------------*********
+
 package com.example.swan.mindyrush2;
 
 /**
